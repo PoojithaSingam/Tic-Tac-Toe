@@ -87,13 +87,13 @@
   <tr>
   <td>
   <p><b>Project Title: </b>PMQuizzez</p>
-  <br>Date: 5/24/2019		                           Prepared by: Poojitha Singam<br>
+  <br><b>Date: 5/24/2019</b>	 <b>Prepared by: Poojitha Singam</b><br>
   </td>
   </tr>
   <tr>
   <td>
-   <p><b>Project Justification</b></p>
-   PMQuizzez is a live quiz website for students to master the concepts of Project Management. The company has currently acquired the project to develop a website for students taking Project Management as a course in Northwest Missouri State University. In this project we help students to learn the input tools & techniques and output of each processes also the 10 Knowledge Areas. 
+   <p><b>Project Justification</b>
+PMQuizzez is a live quiz website for students to master the concepts of Project Management. The company has currently acquired the project to develop a website for students taking Project Management as a course in Northwest Missouri State University. In this project we help students to learn the input tools & techniques and output of each processes also the 10 Knowledge Areas. </p>
   </td>
   </tr>
   </table>
