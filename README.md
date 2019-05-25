@@ -22,14 +22,15 @@
   </tr>
   <tr>
   <td>Overview</td>
-  <td>Project Overview: PMQuizzez is a live quiz website for helping students to master the concepts of PM. In this project we help students to learn the input tools & techniques and output of each processes also covers the 10 Knowledge Areas.
-
-  Project Deliverables: Project Charter, project management plan, requirements specifications document, scope statement, work breakdown structure, Gantt charts, cost management plan that determines cost estimation & determines budget, stakeholder register, status reports, issue log, final project documentation and lessons learnt documentation.
-Evolution of the SPMP: The changes in the project are well documented and is available for all the team members to view and work simultaneously. All change requests are formally made by a team member and a committee consisting of the project manager is set up to take a decision on these changes. We use Google docs to save those changes as they are formally noted. 
-
-Reference Materials: We have studied outcomes of various successful projects and we will try to implement them in our project. We also referenced many articles to know about how to make a project successful. 
-
-Definitions and Acronyms:
-SPMP-Software Project Management Plan 
+  <td>Project Overview: 
+          PMQuizzez is a live quiz website for helping students to master the concepts of PM. In this project we help students to learn the input tools & techniques and output of each processes also covers the 10 Knowledge Areas.
+      Project Deliverables: 
+          Project Charter, project management plan, requirements specifications document, scope statement, work breakdown structure, Gantt charts, cost management plan that determines cost estimation & determines budget, stakeholder register, status reports, issue log, final project documentation and lessons learnt documentation.
+      Evolution of the SPMP: 
+          The changes in the project are well documented and is available for all the team members to view and work simultaneously. All change requests are formally made by a team member and a committee consisting of the project manager is set up to take a decision on these changes. We use Google docs to save those changes as they are formally noted. 
+      Reference Materials:
+          We have studied outcomes of various successful projects and we will try to implement them in our project. We also referenced many articles to know about how to make a project successful. 
+      Definitions and Acronyms:
+          SPMP-Software Project Management Plan 
 </td>
 </tr>
