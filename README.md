@@ -32,3 +32,55 @@
   <td>High</td>
   <td>Functional</td>
   </tr>
+  <tr>
+  <td>3</td>
+  <td>The credentials should be unique for the admin and student.</td>
+  <td>High</td>
+  <td>Non-Functional</td>
+  </tr>
+  <tr>
+  <td>3</td>
+  <td>The credentials should be unique for the admin and student.</td>
+  <td>High</td>
+  <td>Non-Functional</td>
+  </tr>
+  <tr>
+  <td>4</td>
+  <td>The website should allow students to look at topics they want to take a quiz on.</td>
+  <td>Medium</td>
+  <td>Functional</td>
+  </tr>
+  <tr>
+  <td>5</td>
+  <td>It should update the content when necessary.</td>
+  <td>High</td>
+  <td>Non-Functional</td>
+  </tr>
+  <tr>
+  <td>6</td>
+  <td>Response time should be less than 60 seconds.</td>
+  <td>Medium</td>
+  <td>Non-Functional</td>
+  </tr>
+  <tr>
+  <td>7</td>
+  <td>The Student can view his previous attempts and scores.<td>
+  <td>Medium</td>
+  <td>Non-Functional</td>
+  </tr>
+  <tr>
+  <td>8</td>
+  <td>The website should have a feedback page.</td>
+  <td>Low</td>
+  <td>Non-Functional</td>
+  </tr>
+  <tr>
+  <td>9</td>
+  <td>Storing user’s information</td>
+  <td>Medium</td>
+  <td>Non-Functional</td>
+  </tr>
+  </table>
+  </div>
+  </body>
+  </html>
