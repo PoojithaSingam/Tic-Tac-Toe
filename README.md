@@ -64,7 +64,7 @@
   </tr>
   <tr>
   <td>7</td>
-  <td>The Student can view his previous attempts and scores.<td>
+  <td>The Student can view his previous attempts and scores.</td>
   <td>Medium</td>
   <td>Non-Functional</td>
   </tr>
