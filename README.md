@@ -38,12 +38,12 @@
 <td><b>Project Organization</b></td>
 <td>Organization Structure:
                                  <br>CEO
-                                <br><br>  |
+                                <br>|
                           <br> Program Manager
-                               <br><br>   |
+                               <br> |
                          <br>  Project Manager
-                                 <br><br> |
-                             <br><br>Staff 
+                               <br> |
+                             <br> Staff 
 
 <br>Organizational Boundaries and Interfaces: The above is the organizational structure for our project. The authority follows hierarchy Each           member is given authority to their area of work and needs to report to the person who is in above level.<br>
 <br>Project Responsibilities: To deliver product on time, make sure it’s within the budget and Quality is maintained.
