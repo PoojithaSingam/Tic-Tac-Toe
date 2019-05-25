@@ -17,20 +17,20 @@
 <div class="container">
 <table style="width:100%;border: 1px solid black;">
   <tr>
-    <th>Name of the StakeHolder</th>
-    <th>Role in the project</th> 
+    <th>MAJOR SECTION HEADINGS</th>
+    <th>SECTION TOPICS</th> 
   </tr>
   <tr>
   <td><b>Overview</b></td>
-  <td><p style="text-decoration: underline;">Project Overview:</p>
+  <td><p><u>Project Overview:</u></p>
           PMQuizzez is a live quiz website for helping students to master the concepts of PM. In this project we help students to learn the input tools & techniques and output of each processes also covers the 10 Knowledge Areas.<br>
-      <p style="text-decoration: underline;">Project Deliverables:</p>
+      <p><u>Project Deliverables:</u></p>
           Project Charter, project management plan, requirements specifications document, scope statement, work breakdown structure, Gantt charts, cost management plan that determines cost estimation & determines budget, stakeholder register, status reports, issue log, final project documentation and lessons learnt documentation.<br>
-      <p style="text-decoration: underline;">Evolution of the SPMP: </p>
+      <p><u>volution of the SPMP: </u></p>
           The changes in the project are well documented and is available for all the team members to view and work simultaneously. All change requests are formally made by a team member and a committee consisting of the project manager is set up to take a decision on these changes. We use Google docs to save those changes as they are formally noted. <br>
-      <p style="text-decoration: underline;">Reference Materials:</p>
+      <p><u>Reference Materials:</u></p>
           We have studied outcomes of various successful projects and we will try to implement them in our project. We also referenced many articles to know about how to make a project successful. 
-      <p style="text-decoration: underline;">Definitions and Acronyms:</p>
+      <p><u>Definitions and Acronyms:</u></p>
           SPMP-Software Project Management Plan <br>
           
 </td>
