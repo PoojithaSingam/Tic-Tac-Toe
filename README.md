@@ -22,15 +22,15 @@
   </tr>
   <tr>
   <td><b>Overview</b></td>
-  <td><p><u>Project Overview:</u></p>
+  <td>Project Overview:<br>
           PMQuizzez is a live quiz website for helping students to master the concepts of PM. In this project we help students to learn the input tools & techniques and output of each processes also covers the 10 Knowledge Areas.<br>
-      <p><u>Project Deliverables:</u></p>
+  <br>Project Deliverables:
           Project Charter, project management plan, requirements specifications document, scope statement, work breakdown structure, Gantt charts, cost management plan that determines cost estimation & determines budget, stakeholder register, status reports, issue log, final project documentation and lessons learnt documentation.<br>
-      <p><u>volution of the SPMP: </u></p>
+  <br>Evolution of the SPMP: 
           The changes in the project are well documented and is available for all the team members to view and work simultaneously. All change requests are formally made by a team member and a committee consisting of the project manager is set up to take a decision on these changes. We use Google docs to save those changes as they are formally noted. <br>
-      <p><u>Reference Materials:</u></p>
-          We have studied outcomes of various successful projects and we will try to implement them in our project. We also referenced many articles to know about how to make a project successful. 
-      <p><u>Definitions and Acronyms:</u></p>
+  <br>Reference Materials:
+          We have studied outcomes of various successful projects and we will try to implement them in our project. We also referenced many articles to know about how to make a project successful. <br>
+  <br>Definitions and Acronyms:
           SPMP-Software Project Management Plan <br>
           
 </td>
